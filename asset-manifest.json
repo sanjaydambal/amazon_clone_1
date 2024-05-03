@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sanjaydambal/amazon_clone_1.git/static/css/main.91a4e83e.css",
+    "main.js": "/sanjaydambal/amazon_clone_1.git/static/js/main.38ba9111.js",
+    "static/js/453.7d97a5bc.chunk.js": "/sanjaydambal/amazon_clone_1.git/static/js/453.7d97a5bc.chunk.js",
+    "index.html": "/sanjaydambal/amazon_clone_1.git/index.html",
+    "main.91a4e83e.css.map": "/sanjaydambal/amazon_clone_1.git/static/css/main.91a4e83e.css.map",
+    "main.38ba9111.js.map": "/sanjaydambal/amazon_clone_1.git/static/js/main.38ba9111.js.map",
+    "453.7d97a5bc.chunk.js.map": "/sanjaydambal/amazon_clone_1.git/static/js/453.7d97a5bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91a4e83e.css",
+    "static/js/main.38ba9111.js"
+  ]
+}
